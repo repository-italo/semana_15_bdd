@@ -2,7 +2,7 @@
 
 
 ## Objetivo
-Atividade realizada com o objetivo de aplicar o uso do Cumcumber em um projeto
+Atividade realizada com o objetivo de aplicar o uso do Cucumber em um projeto
 de Teste usando a metodologia BDD (Behavior Driven Development). O uso do BDD
 como metodologia de desenvolvimento visa tanto atender melhor as expectativas do usuário final quanto 
 ao software quanto de facilitar a comunicação e a descrição do sistema para os
